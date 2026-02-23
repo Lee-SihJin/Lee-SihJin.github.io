@@ -115,9 +115,15 @@ namespace OnlineCV.Controllers
 
         public IActionResult DownloadPDF()
         {
-            // You would implement PDF generation here
-            // For now, redirect back to home
-            return RedirectToAction("Index");
+            string file = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Documents", "Sih-Jin-Lee-FlowCV-Resume-20260223.pdf");
+
+            if (!System.IO.File.Exists(file))
+            {
+                return NotFound();
+            }
+
+            var stream= new FileStream(file,FileMode.Open,FileAccess.Read);
+            return File(stream, "application/pdf", "Sih-Jin-Lee-FlowCV-Resume-20260223.pdf");
         }
     }
 }

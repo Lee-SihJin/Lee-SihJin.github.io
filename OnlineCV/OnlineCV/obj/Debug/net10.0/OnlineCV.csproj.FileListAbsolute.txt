@@ -101,3 +101,4 @@ C:\Users\lab_services_student\Desktop\Lee-SihJin.github.io\OnlineCV\OnlineCV\obj
 C:\Users\lab_services_student\Desktop\Lee-SihJin.github.io\OnlineCV\OnlineCV\obj\Debug\net10.0\compressed\tp6sc1ttv6-{0}-jjsuc0puko-jjsuc0puko.gz
 C:\Users\lab_services_student\Desktop\Lee-SihJin.github.io\OnlineCV\OnlineCV\obj\Debug\net10.0\compressed\yet47djwiu-{0}-9vr69e8ynj-9vr69e8ynj.gz
 C:\Users\lab_services_student\Desktop\Lee-SihJin.github.io\OnlineCV\OnlineCV\bin\Debug\net10.0\dotnet-tools.json
+C:\Users\lab_services_student\Desktop\Lee-SihJin.github.io\OnlineCV\OnlineCV\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

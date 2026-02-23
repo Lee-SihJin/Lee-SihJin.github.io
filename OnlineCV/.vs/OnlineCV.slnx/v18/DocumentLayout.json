@@ -7,56 +7,20 @@
       "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\wwwroot\\css\\pdf-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\wwwroot\\css\\pdf-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\certification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\certification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\cvviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\cvviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\volunteering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\volunteering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\cvviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\cvviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|c:\\users\\lab_services_student\\desktop\\lee-sihjin.github.io\\onlinecv\\onlinecv\\models\\certification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A95A77-0F8B-B8F2-9A6B-483B11935D73}|OnlineCV\\OnlineCV.csproj|solutionrelative:onlinecv\\models\\certification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,56 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "OnlineCV\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "OnlineCV\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAMsGAAAAAAAAAAAgwOMGAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-23T09:51:19.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineCV\\Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Program.cs",
-              "RelativeToolTip": "OnlineCV\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T09:45:09.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "pdf-styles.css",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\wwwroot\\css\\pdf-styles.css",
-              "RelativeDocumentMoniker": "OnlineCV\\wwwroot\\css\\pdf-styles.css",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\wwwroot\\css\\pdf-styles.css",
-              "RelativeToolTip": "OnlineCV\\wwwroot\\css\\pdf-styles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-23T09:44:01.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineCV\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "OnlineCV\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEMBAAAAAAAAAAAgwFkBAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-23T09:12:56.061Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -124,118 +40,59 @@
               "RelativeDocumentMoniker": "OnlineCV\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Controllers\\HomeController.cs",
               "RelativeToolTip": "OnlineCV\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAAHcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:38:08.957Z",
+              "WhenOpened": "2026-02-23T14:56:27.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Certification.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Certification.cs",
-              "RelativeDocumentMoniker": "OnlineCV\\Models\\Certification.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Certification.cs",
-              "RelativeToolTip": "OnlineCV\\Models\\Certification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:37:28.658Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineCV\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineCV\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T14:13:13.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CVViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\CVViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineCV\\Models\\CVViewModel.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\CVViewModel.cs",
-              "RelativeToolTip": "OnlineCV\\Models\\CVViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:36:57.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Interest.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Interest.cs",
-              "RelativeDocumentMoniker": "OnlineCV\\Models\\Interest.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Interest.cs",
-              "RelativeToolTip": "OnlineCV\\Models\\Interest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:36:34.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PersonalInfo.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\PersonalInfo.cs",
-              "RelativeDocumentMoniker": "OnlineCV\\Models\\PersonalInfo.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\PersonalInfo.cs",
-              "RelativeToolTip": "OnlineCV\\Models\\PersonalInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:33:02.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "OnlineCV\\Models\\Project.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Project.cs",
-              "RelativeToolTip": "OnlineCV\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:34:25.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Volunteering.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Volunteering.cs",
-              "RelativeDocumentMoniker": "OnlineCV\\Models\\Volunteering.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Volunteering.cs",
-              "RelativeToolTip": "OnlineCV\\Models\\Volunteering.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:36:09.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Experience.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Experience.cs",
-              "RelativeDocumentMoniker": "OnlineCV\\Models\\Experience.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Experience.cs",
-              "RelativeToolTip": "OnlineCV\\Models\\Experience.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:35:18.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Education.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Education.cs",
               "RelativeDocumentMoniker": "OnlineCV\\Models\\Education.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Education.cs",
               "RelativeToolTip": "OnlineCV\\Models\\Education.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:34:51.486Z"
+              "WhenOpened": "2026-02-23T14:13:08.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Skill.cs",
-              "RelativeDocumentMoniker": "OnlineCV\\Models\\Skill.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Skill.cs",
-              "RelativeToolTip": "OnlineCV\\Models\\Skill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CVViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\CVViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineCV\\Models\\CVViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\CVViewModel.cs",
+              "RelativeToolTip": "OnlineCV\\Models\\CVViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T08:33:46.681Z"
+              "WhenOpened": "2026-02-23T14:13:05.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Certification.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Certification.cs",
+              "RelativeDocumentMoniker": "OnlineCV\\Models\\Certification.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Lee-SihJin.github.io\\OnlineCV\\OnlineCV\\Models\\Certification.cs",
+              "RelativeToolTip": "OnlineCV\\Models\\Certification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:13:00.456Z"
             }
           ]
         }
